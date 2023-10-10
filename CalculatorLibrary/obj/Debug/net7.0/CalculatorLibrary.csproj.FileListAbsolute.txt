@@ -1,0 +1,12 @@
+/Users/mariuswaseige/Downloads/C#/Projects Rider/CalculatorTerminal/CalculatorLibrary/bin/Debug/net7.0/CalculatorLibrary.deps.json
+/Users/mariuswaseige/Downloads/C#/Projects Rider/CalculatorTerminal/CalculatorLibrary/bin/Debug/net7.0/CalculatorLibrary.dll
+/Users/mariuswaseige/Downloads/C#/Projects Rider/CalculatorTerminal/CalculatorLibrary/bin/Debug/net7.0/CalculatorLibrary.pdb
+/Users/mariuswaseige/Downloads/C#/Projects Rider/CalculatorTerminal/CalculatorLibrary/obj/Debug/net7.0/CalculatorLibrary.csproj.AssemblyReference.cache
+/Users/mariuswaseige/Downloads/C#/Projects Rider/CalculatorTerminal/CalculatorLibrary/obj/Debug/net7.0/CalculatorLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mariuswaseige/Downloads/C#/Projects Rider/CalculatorTerminal/CalculatorLibrary/obj/Debug/net7.0/CalculatorLibrary.AssemblyInfoInputs.cache
+/Users/mariuswaseige/Downloads/C#/Projects Rider/CalculatorTerminal/CalculatorLibrary/obj/Debug/net7.0/CalculatorLibrary.AssemblyInfo.cs
+/Users/mariuswaseige/Downloads/C#/Projects Rider/CalculatorTerminal/CalculatorLibrary/obj/Debug/net7.0/CalculatorLibrary.csproj.CoreCompileInputs.cache
+/Users/mariuswaseige/Downloads/C#/Projects Rider/CalculatorTerminal/CalculatorLibrary/obj/Debug/net7.0/CalculatorLibrary.dll
+/Users/mariuswaseige/Downloads/C#/Projects Rider/CalculatorTerminal/CalculatorLibrary/obj/Debug/net7.0/refint/CalculatorLibrary.dll
+/Users/mariuswaseige/Downloads/C#/Projects Rider/CalculatorTerminal/CalculatorLibrary/obj/Debug/net7.0/CalculatorLibrary.pdb
+/Users/mariuswaseige/Downloads/C#/Projects Rider/CalculatorTerminal/CalculatorLibrary/obj/Debug/net7.0/ref/CalculatorLibrary.dll
